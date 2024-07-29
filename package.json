@@ -1,0 +1,28 @@
+{
+  "name": "movie-mania",
+  "version": "1.0.0",
+  "description": "A Movie Mania",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yeasinshaikh188/Movie-Mania.git"
+  },
+  "keywords": [
+    "html",
+    "tailwind",
+    "css",
+    "javascript;"
+  ],
+  "author": "Yeasin Shaikh;",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yeasinshaikh188/Movie-Mania/issues"
+  },
+  "homepage": "https://github.com/yeasinshaikh188/Movie-Mania#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.4.7"
+  }
+}
